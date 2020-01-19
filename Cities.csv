@@ -1,0 +1,1003 @@
+City,Visits,% Visits
+"Toronto, Canada",122711,0.20696
+"Montreal, Canada",47902,0.08079
+"Ottawa, Canada",36738,0.06196
+"Providence, Utah, United States",34883,0.05883
+"Seattle, Washington, United States",19109,0.03223
+"Calgary, Canada",14572,0.02458
+"Redmond, Washington, United States",13978,0.02358
+"Vancouver, Canada",13194,0.02225
+"Falls Church, Virginia, United States",12528,0.02113
+"Mississauga, Canada",11641,0.01963
+"Edmonton, Canada",8519,0.01437
+"Chatham, Canada",7130,0.01203
+"Markham, Canada",6904,0.01164
+"North York, Canada",6855,0.01156
+"Quebec, Canada",6826,0.01151
+"Burlington, Canada",6722,0.01134
+"Etobicoke, Canada",6595,0.01112
+"Winnipeg, Canada",6344,0.0107
+"Burnaby, Canada",5034,0.00849
+"Washington, D.C., United States",4349,0.00733
+"London, Canada",4125,0.00696
+"Halifax, Canada",4057,0.00684
+"Kitchener, Canada",3401,0.00574
+"Victoria, Canada",3242,0.00547
+"Jacksonville, Canada",3144,0.0053
+"Regina, Canada",2918,0.00492
+"Kelowna, Canada",2654,0.00448
+"Scarborough, Canada",2501,0.00422
+"Dieppe, Canada",2498,0.00421
+"Moncton, Canada",2360,0.00398
+"Longueuil, Canada",2043,0.00345
+"Pierrefonds, Canada",2019,0.00341
+"Saskatoon, Canada",1885,0.00318
+"Saint John, Canada",1885,0.00318
+"New York, New York, United States",1797,0.00303
+"Barrie, Canada",1782,0.00301
+"Brampton, Canada",1767,0.00298
+"Sudbury, Canada",1762,0.00297
+"Langley, Canada",1614,0.00272
+"Mumbai, India",1545,0.00261
+"Dorval, Canada",1526,0.00257
+"Trois-Rivieres, Canada",1474,0.00249
+"Hamilton, Canada",1453,0.00245
+"Kingston, Canada",1427,0.00241
+"Dartmouth, Canada",1358,0.00229
+"Fredericton, Canada",1345,0.00227
+"St. John's, Canada",1334,0.00225
+"Paris, France",1317,0.00222
+"Gatineau, Canada",1311,0.00221
+"Windsor, Canada",1301,0.00219
+"London, United Kingdom",1282,0.00216
+"Saint-Laurent, Canada",1223,0.00206
+"San Jose, California, United States",1206,0.00203
+"Pickering, Canada",1189,0.00201
+"Waterloo, Canada",1178,0.00199
+"Squamish, Canada",1130,0.00191
+"Charlottetown, Canada",1102,0.00186
+"Ajax, Canada",1079,0.00182
+"Newmarket, Canada",1057,0.00178
+"Nepean, Canada",1046,0.00176
+"Verdun, Canada",1032,0.00174
+"Atlanta, Georgia, United States",1029,0.00174
+"Surrey, Canada",977,0.00165
+"Laval, Canada",969,0.00163
+"Sherbrooke, Canada",957,0.00161
+"Hong Kong, Hong Kong",952,0.00161
+"Guelph, Canada",947,0.0016
+"Los Angeles, California, United States",930,0.00157
+"Amsterdam, Netherlands",920,0.00155
+"Woodbridge, Canada",902,0.00152
+"Richmond, Canada",888,0.0015
+"Gloucester, Canada",880,0.00148
+"Oakville, Canada",846,0.00143
+"Seoul, Korea (South)",843,0.00142
+"New Westminster, Canada",836,0.00141
+"Cambridge, Canada",825,0.00139
+"Tokyo, Japan",818,0.00138
+"Makati, Philippines",800,0.00135
+"Nanaimo, Canada",785,0.00132
+"Abbotsford, Canada",782,0.00132
+"Red Deer, Canada",781,0.00132
+"Ghansoli, India",740,0.00125
+"Ashburn, Virginia, United States",734,0.00124
+"Mont-Royal, Canada",711,0.0012
+"Tehran, Iran",699,0.00118
+"Whitehorse, Canada",688,0.00116
+"Port Coquitlam, Canada",684,0.00115
+"Newark, New Jersey, United States",681,0.00115
+"Mexico City, Mexico",673,0.00114
+"Chicago, Illinois, United States",654,0.0011
+"Islamabad, Pakistan",645,0.00109
+"Coquitlam, Canada",640,0.00108
+"Delhi, India",634,0.00107
+"Brantford, Canada",631,0.00106
+"Rimouski, Canada",629,0.00106
+"Sydney, Canada",620,0.00105
+"Kamloops, Canada",617,0.00104
+"Thunder Bay, Canada",609,0.00103
+"Taipei, Taiwan",607,0.00102
+"Bangalore, India",603,0.00102
+"Prince George, Canada",596,0.00101
+"North Vancouver, Canada",592,0.001
+"New Delhi, India",576,0.00097
+"Dallas, Texas, United States",572,0.00096
+"Orleans, Canada",553,0.00093
+"Orangeville, Canada",551,0.00093
+"Levis, Canada",525,0.00089
+"Malton, Canada",513,0.00087
+"Lagos, Nigeria",513,0.00087
+"St Catharines, Canada",510,0.00086
+"Grande Prairie, Canada",497,0.00084
+"Woodstock, Canada",492,0.00083
+"Kanata, Canada",491,0.00083
+"Milton, Canada",490,0.00083
+"Dubai, United Arab Emirates",487,0.00082
+"Singapore, Singapore",474,0.0008
+"Corner Brook, Canada",465,0.00078
+"Lethbridge, Canada",459,0.00077
+"Moscow, Russian Federation",457,0.00077
+"Magog, Canada",456,0.00077
+"Stratford, Canada",453,0.00076
+"Drummondville, Canada",451,0.00076
+"San Francisco, California, United States",447,0.00075
+"Richmond Hill, Canada",445,0.00075
+"Phoenix, Arizona, United States",445,0.00075
+"Hyderabad, India",441,0.00074
+"Sydney, Australia",438,0.00074
+"Unionville, Canada",434,0.00073
+"York, Canada",418,0.0007
+"Istanbul, Turkey",416,0.0007
+"Yerevan, Armenia",414,0.0007
+"Rabat, Morocco",402,0.00068
+"Thornhill, Canada",386,0.00065
+"Portland, Oregon, United States",379,0.00064
+"Denver, Colorado, United States",378,0.00064
+"Mount Pearl, Canada",378,0.00064
+"White Rock, Canada",374,0.00063
+"St Paul, Canada",371,0.00063
+"Houston, Texas, United States",365,0.00062
+"Bogota, Colombia",365,0.00062
+"Guangzhou, China",364,0.00061
+"Mountain View, California, United States",363,0.00061
+"Oshawa, Canada",359,0.00061
+"Sao Paulo, Brazil",355,0.0006
+"Kiev, Ukraine",350,0.00059
+"Rochester, New York, United States",348,0.00059
+"Orlando, Florida, United States",340,0.00057
+"Orillia, Canada",339,0.00057
+"Saint-Denis, France",336,0.00057
+"Delta, Canada",334,0.00056
+"Val-D'or, Canada",328,0.00055
+"Madrid, Spain",327,0.00055
+"San Diego, California, United States",322,0.00054
+"Saint-Jerome, Canada",322,0.00054
+"Lima, Peru",321,0.00054
+"Cupertino, California, United States",320,0.00054
+"Duncan, Canada",317,0.00053
+"Santa Clara, California, United States",309,0.00052
+"Saint-Hyacinthe, Canada",305,0.00051
+"Tunis, Tunisia",300,0.00051
+"Nicolet, Canada",297,0.0005
+"Pohang, Korea (South)",295,0.0005
+"Beijing, China",292,0.00049
+"Bellevue, Washington, United States",292,0.00049
+"Fort Mcmurray, Canada",288,0.00049
+"Riyadh, Saudi Arabia",284,0.00048
+"Saint-Lambert, Canada",275,0.00046
+"East York, Canada",270,0.00046
+"Brandon, Canada",263,0.00044
+"La Baie, Canada",261,0.00044
+"Aurora, Canada",259,0.00044
+"Zurich, Switzerland",259,0.00044
+"Lasalle, Canada",256,0.00043
+"Miami, Florida, United States",255,0.00043
+"Port Louis, Mauritius",252,0.00043
+"Secaucus, New Jersey, United States",251,0.00042
+"Philadelphia, Pennsylvania, United States",249,0.00042
+"Sainte-Therese, Canada",243,0.00041
+"Hanoi, Viet Nam",242,0.00041
+"Frankfurt Am Main, Germany",242,0.00041
+"Jupiter, Florida, United States",237,0.0004
+"Yellowknife, Canada",237,0.0004
+"Vanier, Canada",235,0.0004
+"Cranbrook, Canada",234,0.00039
+"Courtenay, Canada",231,0.00039
+"Montreal-Nord, Canada",231,0.00039
+"Whitby, Canada",231,0.00039
+"Nagoya, Japan",226,0.00038
+"Cleveland, Ohio, United States",222,0.00037
+"Concord, Canada",221,0.00037
+"Belleville, Canada",221,0.00037
+"Dublin, Ireland",221,0.00037
+"Anjou, Canada",220,0.00037
+"Trumbull, Connecticut, United States",219,0.00037
+"Menlo Park, California, United States",217,0.00037
+"Millbrook, Canada",217,0.00037
+"Chicoutimi, Canada",216,0.00036
+"New Minas, Canada",214,0.00036
+"Saint-Jean-Sur-Richelieu, Canada",213,0.00036
+"Brooks, Canada",213,0.00036
+"Beaverton, Michigan, United States",209,0.00035
+"Boston, Massachusetts, United States",206,0.00035
+"Saint-Hubert, Canada",205,0.00035
+"Peterborough, Canada",205,0.00035
+"Keswick, Canada",202,0.00034
+"Bucharest, Romania",202,0.00034
+"Medicine Hat, Canada",201,0.00034
+"St Louis, Missouri, United States",199,0.00034
+"Auckland, New Zealand (Aotearoa)",198,0.00033
+"Chennai, India",198,0.00033
+"Stockholm, Sweden",197,0.00033
+"Dhaka, Bangladesh",196,0.00033
+"Indianapolis, Indiana, United States",191,0.00032
+"Joliette, Canada",190,0.00032
+"Gurgaon, India",190,0.00032
+"Panama City, Panama",189,0.00032
+"Tampa, Florida, United States",189,0.00032
+"Algiers, Algeria",189,0.00032
+"Karachi, Pakistan",188,0.00032
+"St Paul, Minnesota, United States",185,0.00031
+"Pittsburgh, Pennsylvania, United States",185,0.00031
+"Sackville, Canada",183,0.00031
+"Repentigny, Canada",183,0.00031
+"Richardson, Texas, United States",182,0.00031
+"Shawinigan, Canada",182,0.00031
+"North Bay, Canada",182,0.00031
+"Sangam-Dong, Korea (South)",182,0.00031
+"Las Vegas, Nevada, United States",182,0.00031
+"Sault Ste. Marie, Canada",181,0.00031
+"Prince Albert, Canada",180,0.0003
+"Dollard-Des-Ormeaux, Canada",178,0.0003
+"Saint-Leonard, Canada",178,0.0003
+"Milan, Italy",176,0.0003
+"Melbourne, Australia",176,0.0003
+"Tlalpan, Mexico",175,0.0003
+"Stoke-On-Trent, United Kingdom",174,0.00029
+"Maple, Canada",173,0.00029
+"Parksville, Canada",173,0.00029
+"Brussels, Belgium",172,0.00029
+"Clifford, Canada",172,0.00029
+"Streetsville, Canada",169,0.00029
+"St. Albert, Canada",168,0.00028
+"Berlin, Germany",168,0.00028
+"Niagara Falls, Canada",167,0.00028
+"Marietta, Georgia, United States",166,0.00028
+"Yorkton, Canada",166,0.00028
+"Salaberry-De-Valleyfield, Canada",166,0.00028
+"Bridgewater, Canada",164,0.00028
+"Alma, Canada",164,0.00028
+"Nuremberg, Germany",163,0.00027
+"Mount Laurel, New Jersey, United States",162,0.00027
+"Buenos Aires, Argentina",160,0.00027
+"Munich, Germany",160,0.00027
+"Rome, Italy",160,0.00027
+"Warsaw, Poland",159,0.00027
+"Bangkok, Thailand",159,0.00027
+"Fremont, California, United States",158,0.00027
+"Manhattan, Illinois, United States",158,0.00027
+"Cambridge, Massachusetts, United States",158,0.00027
+"Horsham, Pennsylvania, United States",158,0.00027
+"Calcutta, India",158,0.00027
+"Sainte-Genevieve, Canada",157,0.00026
+"Vernon, Canada",155,0.00026
+"Buffalo, New York, United States",154,0.00026
+"Giza, Egypt",154,0.00026
+"Grimsby, Canada",154,0.00026
+"Cornwall, Canada",152,0.00026
+"Kuala Lumpur, Malaysia",152,0.00026
+"Brockville, Canada",150,0.00025
+"Surat, India",149,0.00025
+"New Liskeard, Canada",148,0.00025
+"Sunnyvale, California, United States",146,0.00025
+"Canmore, Canada",146,0.00025
+"Collingwood, Canada",144,0.00024
+"Abidjan, Cote D'Ivoire (Ivory Coast)",144,0.00024
+"Sarasota, Florida, United States",144,0.00024
+"Luxembourg, Luxembourg",143,0.00024
+"Herndon, Virginia, United States",143,0.00024
+"West Vancouver, Canada",141,0.00024
+"Bolton, Canada",140,0.00024
+"Cairo, Egypt",138,0.00023
+"Santiago, Chile",135,0.00023
+"Lisbon, Portugal",135,0.00023
+"Sherwood Park, Canada",134,0.00023
+"Terrebonne, Canada",133,0.00022
+"Barcelona, Spain",130,0.00022
+"Eganville, Canada",129,0.00022
+"Middletown, New Jersey, United States",129,0.00022
+"Nairobi, Kenya",129,0.00022
+"Beirut, Lebanon",129,0.00022
+"Prague, Czech Republic",128,0.00022
+"Stittsville, Canada",127,0.00021
+"Granby, Canada",127,0.00021
+"Detroit, Michigan, United States",127,0.00021
+"Ann Arbor, Michigan, United States",126,0.00021
+"Summerside, Canada",125,0.00021
+"Sept-Iles, Canada",124,0.00021
+"Pune, India",123,0.00021
+"Stamford, Connecticut, United States",123,0.00021
+"Osaka, Japan",122,0.00021
+"Broomfield, Colorado, United States",122,0.00021
+"Welland, Canada",121,0.0002
+"Ankara, Turkey",121,0.0002
+"Vienna, Austria",120,0.0002
+"Lloydminster, Canada",119,0.0002
+"Manchester, United Kingdom",119,0.0002
+"Petah Tiqwa, Israel",118,0.0002
+"Sioux Lookout, Canada",116,0.0002
+"Chantilly, Virginia, United States",116,0.0002
+"Timmins, Canada",116,0.0002
+"Santo Domingo, Dominican Republic",115,0.00019
+"Eau Claire, Wisconsin, United States",115,0.00019
+"Minneapolis, Minnesota, United States",114,0.00019
+"Dakar, Senegal",114,0.00019
+"L'ancienne-Lorette, Canada",114,0.00019
+"Hull, Canada",114,0.00019
+"Truro, Canada",114,0.00019
+"Minsk, Belarus",113,0.00019
+"San Mateo, California, United States",113,0.00019
+"Nelson, Canada",113,0.00019
+"Saint-Eustache, Canada",112,0.00019
+"Rio De Janeiro, Brazil",112,0.00019
+"Colombo, Sri Lanka",111,0.00019
+"Ahmedabad, India",110,0.00019
+"Athens, Greece",110,0.00019
+"New Glasgow, Canada",110,0.00019
+"Sainte-Marie, Canada",109,0.00018
+"Amman, Jordan",109,0.00018
+"Jakarta, Indonesia",108,0.00018
+"Dublin, Canada",107,0.00018
+"Smiths Falls, Canada",105,0.00018
+"Stoney Creek, Canada",105,0.00018
+"Fairfield, Connecticut, United States",104,0.00018
+"St Georges, Canada",104,0.00018
+"Helsinki, Finland",104,0.00018
+"Columbus, Ohio, United States",104,0.00018
+"Valcourt, Canada",104,0.00018
+"Airdrie, Canada",104,0.00018
+"Canberra, Australia",104,0.00018
+"Garza Garcia, Mexico",103,0.00017
+"Velizy-Villacoublay, France",102,0.00017
+"Dusseldorf, Germany",101,0.00017
+"Pointe-Claire, Canada",101,0.00017
+"Mountain Grove, Canada",100,0.00017
+"Campbell River, Canada",100,0.00017
+"Penticton, Canada",100,0.00017
+"Yaounde, Cameroon",100,0.00017
+"Deland, Florida, United States",100,0.00017
+"Lewes, Delaware, United States",98,0.00017
+"Sofia, Bulgaria",97,0.00016
+"Waltham, Massachusetts, United States",96,0.00016
+"Mars, Pennsylvania, United States",95,0.00016
+"Taichung, Taiwan",94,0.00016
+"Chilliwack, Canada",94,0.00016
+"Storm Lake, Iowa, United States",94,0.00016
+"Riga, Latvia",94,0.00016
+"Prince Rupert, Canada",94,0.00016
+"North Battleford, Canada",94,0.00016
+"Geneve, Switzerland",94,0.00016
+"Aubervilliers, France",93,0.00016
+"North Sydney, Australia",92,0.00016
+"Carrollton, Texas, United States",92,0.00016
+"Manassas, Virginia, United States",92,0.00016
+"Doha, Qatar",92,0.00016
+"Ludhiana, India",92,0.00016
+"Austin, Texas, United States",92,0.00016
+"Ft Worth, Texas, United States",91,0.00015
+"Burgessville, Canada",91,0.00015
+"Leduc, Canada",91,0.00015
+"Naperville, Illinois, United States",91,0.00015
+"Chandigarh, India",90,0.00015
+"Irvine, California, United States",90,0.00015
+"Midhurst, Canada",89,0.00015
+"Medellin, Colombia",89,0.00015
+"Kingston, Jamaica",89,0.00015
+"Okotoks, Canada",87,0.00015
+"Stellarton, Canada",87,0.00015
+"Tiverton, Canada",87,0.00015
+"Brisbane, Australia",87,0.00015
+"Sheffield, United Kingdom",86,0.00015
+"Salt Lake City, Utah, United States",86,0.00015
+"Cochrane, Canada",86,0.00015
+"Shanghai, China",86,0.00015
+"Surfside, California, United States",86,0.00015
+"Arnprior, Canada",86,0.00015
+"Troy, Michigan, United States",85,0.00014
+"Swift Current, Canada",85,0.00014
+"Ealing, United Kingdom",85,0.00014
+"Hsinchu, Taiwan",84,0.00014
+"Baltimore, Maryland, United States",84,0.00014
+"Moose Jaw, Canada",84,0.00014
+"Edison, New Jersey, United States",84,0.00014
+"Midland, Canada",83,0.00014
+"Clarkson, Canada",82,0.00014
+"Westmount, Canada",82,0.00014
+"Taoyuan City, Taiwan",81,0.00014
+"Pembroke, Canada",81,0.00014
+"Rancho Cucamonga, California, United States",81,0.00014
+"Baie-Comeau, Canada",81,0.00014
+"Copenhagen, Denmark",81,0.00014
+"Haney, Canada",80,0.00013
+"Kansas City, Missouri, United States",80,0.00013
+"Olds, Canada",79,0.00013
+"Irving, Texas, United States",79,0.00013
+"Noida, India",79,0.00013
+"Salmon Arm, Canada",78,0.00013
+"Choisy-Le-Roi, France",78,0.00013
+"Kensington And Chelsea, United Kingdom",78,0.00013
+"Scarsdale, New York, United States",77,0.00013
+"Sarnia, Canada",77,0.00013
+"Casablanca, Morocco",77,0.00013
+"Bowmanville, Canada",76,0.00013
+"Yarmouth, Canada",76,0.00013
+"Woodbridge, New Jersey, United States",76,0.00013
+"Vilnius, Lithuania",75,0.00013
+"Matane, Canada",75,0.00013
+"Port Of Spain, Trinidad and Tobago",75,0.00013
+"Richmond, Virginia, United States",75,0.00013
+"Donnacona, Canada",75,0.00013
+"Arlington, Virginia, United States",75,0.00013
+"Kaslo, Canada",74,0.00012
+"St Thomas, Canada",74,0.00012
+"Amos, Canada",74,0.00012
+"Camrose, Canada",74,0.00012
+"San Antonio, Texas, United States",73,0.00012
+"Weyburn, Canada",73,0.00012
+"Lahore, Pakistan",73,0.00012
+"Mechelen, Belgium",73,0.00012
+"Cedar Rapids, Iowa, United States",73,0.00012
+"Aylmer, Canada",72,0.00012
+"Castlegar, Canada",72,0.00012
+"Amherst, Canada",72,0.00012
+"Roxboro, Canada",71,0.00012
+"Whistler, Canada",71,0.00012
+"Georgetown, Canada",70,0.00012
+"Oslo, Norway",70,0.00012
+"Neihu District, Taiwan",69,0.00012
+"Jinan, China",69,0.00012
+"Maniwaki, Canada",69,0.00012
+"Pompano Beach, Florida, United States",68,0.00011
+"Richfield, Ohio, United States",68,0.00011
+"Kuwait, Kuwait",67,0.00011
+"Charlotte, North Carolina, United States",67,0.00011
+"Port Alberni, Canada",67,0.00011
+"Ft Lauderdale, Florida, United States",66,0.00011
+"Spruce Grove, Canada",66,0.00011
+"Rockville, Maryland, United States",66,0.00011
+"Monroe, Louisiana, United States",66,0.00011
+"Sansing, Taiwan",65,0.00011
+"Cincinnati, Ohio, United States",65,0.00011
+"Westbank, Canada",65,0.00011
+"Belgrade, Serbia",65,0.00011
+"Budapest, Hungary",65,0.00011
+"Hangzhou, China",65,0.00011
+"St Petersburg, Russian Federation",64,0.00011
+"Ft St John, Canada",64,0.00011
+"Thetford Mines, Canada",64,0.00011
+"Ancaster, Canada",63,0.00011
+"Sorel-Tracy, Canada",63,0.00011
+"Kirkton, Canada",63,0.00011
+"Ogden, Utah, United States",63,0.00011
+"Port Perry, Canada",62,0.0001
+"Ivrea, Italy",62,0.0001
+"Saint-Constant, Canada",62,0.0001
+"Bielefeld, Germany",62,0.0001
+"Zagreb, Croatia (Hrvatska)",62,0.0001
+"Simcoe, Canada",62,0.0001
+"Cotonou, Benin",62,0.0001
+"Gormley, Canada",61,0.0001
+"Guadalajara, Mexico",61,0.0001
+"Cooksville, Canada",60,0.0001
+"Sechelt, Canada",60,0.0001
+"Stuttgart, Germany",60,0.0001
+"Missoula, Montana, United States",60,0.0001
+"Providence, Rhode Island, United States",60,0.0001
+"Accra, Ghana",60,0.0001
+"Outremont, Canada",60,0.0001
+"Pretoria, South Africa",59,0.0001
+"Tashkent, Uzbekistan",59,0.0001
+"San Jose, Costa Rica",59,0.0001
+"Nashville, Tennessee, United States",59,0.0001
+"Saint-Nicolas, Canada",59,0.0001
+"Perth, Australia",59,0.0001
+"Johannesburg, South Africa",59,0.0001
+"Cologne, Germany",58,0.0001
+"Kinshasa, Congo (Democratic Republic)",58,0.0001
+"The Hague, Netherlands",58,0.0001
+"Englewood, Colorado, United States",58,0.0001
+"Roberval, Canada",58,0.0001
+"Bratislava, Slovak Republic",58,0.0001
+"Bonn, Germany",58,0.0001
+"Winchester, United Kingdom",57,0.0001
+"Terrace, Canada",56,9E-05
+"Puteaux, France",56,9E-05
+"Vineland, Canada",56,9E-05
+"Kenora, Canada",56,9E-05
+"Mcallen, Texas, United States",56,9E-05
+"Plano, Texas, United States",56,9E-05
+"Shah Alam, Malaysia",55,9E-05
+"Haifa, Israel",54,9E-05
+"Des Moines, Iowa, United States",54,9E-05
+"Beauport, Canada",54,9E-05
+"Wilmington, Delaware, United States",54,9E-05
+"Manama, Bahrain",54,9E-05
+"Quito, Ecuador",53,9E-05
+"Peace River, Canada",53,9E-05
+"Santa Monica, California, United States",53,9E-05
+"Tbilisi, Georgia",52,9E-05
+"Adis Abeba, Ethiopia",52,9E-05
+"Perth, Canada",52,9E-05
+"Boucherville, Canada",52,9E-05
+"Baghdad, Iraq",52,9E-05
+"Middlesbrough, United Kingdom",51,9E-05
+"Annapolis, Maryland, United States",51,9E-05
+"Darien, Connecticut, United States",51,9E-05
+"Dryden, Canada",51,9E-05
+"Tower Hamlets, United Kingdom",51,9E-05
+"Masqat, Oman",51,9E-05
+"Concord, California, United States",50,8E-05
+"Auburn Hills, Michigan, United States",50,8E-05
+"Tallinn, Estonia",50,8E-05
+"Mahwah, New Jersey, United States",50,8E-05
+"Ste Catherine, Canada",50,8E-05
+"Hamburg, Germany",49,8E-05
+"Omaha, Nebraska, United States",49,8E-05
+"Stockton, California, United States",48,8E-05
+"Manila, Philippines",48,8E-05
+"Revelstoke, Canada",48,8E-05
+"Clinton, Canada",48,8E-05
+"Pitt Meadows, Canada",48,8E-05
+"Beaverton, Oregon, United States",47,8E-05
+"Dawson Creek, Canada",47,8E-05
+"Redbridge, United Kingdom",47,8E-05
+"Morristown, New Jersey, United States",47,8E-05
+"Kharkiv, Ukraine",47,8E-05
+"Cape Town, South Africa",47,8E-05
+"Chisinau, Moldova",47,8E-05
+"Varennes, Canada",46,8E-05
+"Leamington, Canada",46,8E-05
+"Fort Frances, Canada",46,8E-05
+"Saint-Flavien, Canada",46,8E-05
+"St-Michel-Des-Saints, Canada",46,8E-05
+"North Gower, Canada",46,8E-05
+"Almaty, Kazakhstan",46,8E-05
+"Overland Park, Kansas, United States",45,8E-05
+"Cambridge, United Kingdom",45,8E-05
+"Kampala, Uganda",45,8E-05
+"Guayaquil, Ecuador",45,8E-05
+"Alpharetta, Georgia, United States",45,8E-05
+"Sidney, Canada",45,8E-05
+"Tirana, Albania",45,8E-05
+"Williams Lake, Canada",45,8E-05
+"Newbury, United Kingdom",45,8E-05
+"Thanh Pho Ho Chi Minh, Viet Nam",44,7E-05
+"Bristol, United Kingdom",44,7E-05
+"Port Au Prince, Haiti",44,7E-05
+"Thorold, Canada",44,7E-05
+"Monterrey, Mexico",43,7E-05
+"Lindsay, Canada",43,7E-05
+"Madison, Wisconsin, United States",43,7E-05
+"East Selkirk, Canada",43,7E-05
+"Antananarivo, Madagascar",43,7E-05
+"Utrecht, Netherlands",42,7E-05
+"Westchester, Illinois, United States",42,7E-05
+"Chalk River, Canada",42,7E-05
+"Boulogne-Billancourt, France",42,7E-05
+"Oklahoma City, Oklahoma, United States",42,7E-05
+"Amersfoort, Netherlands",42,7E-05
+"Boca Raton, Florida, United States",42,7E-05
+"Estevan, Canada",42,7E-05
+"Fort Saskatchewan, Canada",41,7E-05
+"Changsha, China",41,7E-05
+"Kincardine, Canada",41,7E-05
+"Lyon, France",41,7E-05
+"Brasilia, Brazil",41,7E-05
+"Montevideo, Uruguay",41,7E-05
+"Reston, Virginia, United States",40,7E-05
+"Drayton Valley, Canada",40,7E-05
+"Ripley, Canada",40,7E-05
+"Del Mar, California, United States",40,7E-05
+"Slave Lake, Canada",40,7E-05
+"Edinburgh, United Kingdom",40,7E-05
+"Trenton, Canada",40,7E-05
+"Huntsville, Canada",40,7E-05
+"Shinjuku, Japan",39,7E-05
+"Sainte-Julie, Canada",39,7E-05
+"Lome, Togo",39,7E-05
+"Lulea, Sweden",39,7E-05
+"Milton Keynes, United Kingdom",39,7E-05
+"Almonte, Canada",39,7E-05
+"Nanjing, China",38,6E-05
+"Fenelon Falls, Canada",38,6E-05
+"Hawkesbury, Canada",38,6E-05
+"Angeles, Philippines",38,6E-05
+"Hatfield, United Kingdom",38,6E-05
+"Powell River, Canada",38,6E-05
+"Victoriaville, Canada",38,6E-05
+"Knowlton, Canada",37,6E-05
+"Gibsons, Canada",37,6E-05
+"Da-An District, Taiwan",37,6E-05
+"Bracebridge, Canada",37,6E-05
+"Toulouse, France",37,6E-05
+"Marseille, France",37,6E-05
+"Slough, United Kingdom",37,6E-05
+"Caracas, Venezuela",37,6E-05
+"Amqui, Canada",37,6E-05
+"Lalitpur, Nepal",36,6E-05
+"Gladwin, Michigan, United States",36,6E-05
+"Secunderabad, India",36,6E-05
+"Ste Anne, Canada",36,6E-05
+"Bristow, Virginia, United States",36,6E-05
+"Wolfville, Canada",36,6E-05
+"Cabano, Canada",36,6E-05
+"Princeton, New Jersey, United States",35,6E-05
+"Alexandria, Virginia, United States",35,6E-05
+"Kigali, Rwanda",35,6E-05
+"Sacramento, California, United States",35,6E-05
+"Sylvan Lake, Canada",35,6E-05
+"Shijiazhuang, China",34,6E-05
+"Westport, Canada",34,6E-05
+"Mount Prospect, Illinois, United States",34,6E-05
+"Trail, Canada",34,6E-05
+"Tel Aviv, Israel",34,6E-05
+"Bay Roberts, Canada",34,6E-05
+"Gaspe, Canada",34,6E-05
+"Whitecourt, Canada",34,6E-05
+"Guevarra, Philippines",34,6E-05
+"Wellington, New Zealand (Aotearoa)",33,6E-05
+"Sterling Heights, Michigan, United States",33,6E-05
+"Sainte-Anne-De-Bellevue, Canada",33,6E-05
+"Piscataway, New Jersey, United States",33,6E-05
+"Roubaix, France",33,6E-05
+"Quesnel, Canada",33,6E-05
+"Little Rock, Arkansas, United States",33,6E-05
+"Minato, Japan",33,6E-05
+"Strasbourg, France",33,6E-05
+"Hydro, Oklahoma, United States",32,5E-05
+"Redwood City, California, United States",32,5E-05
+"Hope, Canada",32,5E-05
+"Hopkins, Minnesota, United States",32,5E-05
+"Jacksonville, Florida, United States",32,5E-05
+"Maslak, Turkey",32,5E-05
+"Kabul, Afghanistan",32,5E-05
+"Hinton, Canada",32,5E-05
+"Beverly Hills, California, United States",31,5E-05
+"Chatsworth, California, United States",31,5E-05
+"Carleton Place, Canada",31,5E-05
+"Columbia, South Carolina, United States",31,5E-05
+"Alliston, Canada",31,5E-05
+"Guatemala City, Guatemala",31,5E-05
+"Durham, North Carolina, United States",31,5E-05
+"Everett, Washington, United States",31,5E-05
+"Douala, Cameroon",31,5E-05
+"Memphis, Tennessee, United States",31,5E-05
+"Chibougamau, Canada",31,5E-05
+"Van Nuys, California, United States",31,5E-05
+"Lourdes, Canada",31,5E-05
+"Louisville, Kentucky, United States",31,5E-05
+"Baku, Azerbaijan",30,5E-05
+"Chesterfield, Missouri, United States",30,5E-05
+"Boxborough, Massachusetts, United States",30,5E-05
+"Steinbach, Canada",30,5E-05
+"Stony Plain, Canada",30,5E-05
+"Poitiers, France",30,5E-05
+"Coimbatore, India",30,5E-05
+"Nicosia, Cyprus",30,5E-05
+"Conakry, Guinea",30,5E-05
+"Melville, New York, United States",30,5E-05
+"St-Sauveur-Des-Monts, Canada",29,5E-05
+"Tucson, Arizona, United States",29,5E-05
+"Schaumburg, Illinois, United States",29,5E-05
+"Bethesda, Maryland, United States",29,5E-05
+"Valletta, Malta",29,5E-05
+"Vaudreuil-Dorion, Canada",29,5E-05
+"Beaumont, Canada",29,5E-05
+"Mirabel, Canada",29,5E-05
+"Issaquah, Washington, United States",29,5E-05
+"Wainwright, Canada",29,5E-05
+"Hicksville, New York, United States",29,5E-05
+"Portsmouth, New Hampshire, United States",29,5E-05
+"Montmagny, Canada",29,5E-05
+"Saint-Godefroi, Canada",28,5E-05
+"Chateauguay, Canada",28,5E-05
+"Bentonville, Arkansas, United States",28,5E-05
+"Osoyoos, Canada",28,5E-05
+"Livingston, New Jersey, United States",28,5E-05
+"Armstrong, Canada",28,5E-05
+"Cold Lake, Canada",28,5E-05
+"Canning, Canada",28,5E-05
+"Oulu, Finland",28,5E-05
+"Qualicum Beach, Canada",27,5E-05
+"Florham Park, New Jersey, United States",27,5E-05
+"Champs-Sur-Marne, France",27,5E-05
+"Batiscan, Canada",27,5E-05
+"Oliver, Canada",27,5E-05
+"Strathmore, Canada",27,5E-05
+"Sarajevo, Bosnia and Herzegovina",27,5E-05
+"Antigonish, Canada",27,5E-05
+"Dortmund, Germany",27,5E-05
+"St Charles, Illinois, United States",27,5E-05
+"Beeton, Canada",27,5E-05
+"Bancroft, Canada",27,5E-05
+"Khartoum, Sudan",27,5E-05
+"Reading, United Kingdom",27,5E-05
+"Cicero, Illinois, United States",26,4E-05
+"Vancouver, Washington, United States",26,4E-05
+"Carleton, Canada",26,4E-05
+"Cobourg, Canada",26,4E-05
+"Palo Alto, California, United States",26,4E-05
+"Rochdale, United Kingdom",26,4E-05
+"Livonia, Michigan, United States",26,4E-05
+"Beloeil, Canada",26,4E-05
+"Yeoksam-Dong, Korea (South)",26,4E-05
+"Lachine, Canada",26,4E-05
+"Telford, United Kingdom",26,4E-05
+"Ucluelet, Canada",26,4E-05
+"Keewatin, Canada",26,4E-05
+"Santa Rosa, California, United States",26,4E-05
+"Milwaukee, Wisconsin, United States",26,4E-05
+"Delft, Netherlands",25,4E-05
+"Adelaide, Australia",25,4E-05
+"Maitland, Florida, United States",25,4E-05
+"New Kensington, Pennsylvania, United States",25,4E-05
+"Norwalk, Connecticut, United States",25,4E-05
+"Warrington, United Kingdom",25,4E-05
+"San Salvador, El Salvador",25,4E-05
+"Lebanon, Ohio, United States",25,4E-05
+"Brossard, Canada",25,4E-05
+"Tyler, Texas, United States",25,4E-05
+"Poznan, Poland",25,4E-05
+"Milverton, Canada",25,4E-05
+"Grand Rapids, Michigan, United States",25,4E-05
+"Fareham, United Kingdom",25,4E-05
+"Ouagadougou, Burkina Faso",25,4E-05
+"Mont-Joli, Canada",24,4E-05
+"Dar Es Salaam, Tanzania",24,4E-05
+"Chengdu, China",24,4E-05
+"Nantes, France",24,4E-05
+"Nassau, Bahamas",24,4E-05
+"Odessa, Ukraine",24,4E-05
+"Bordeaux, France",24,4E-05
+"Southfield, Michigan, United States",24,4E-05
+"Carlsbad, California, United States",24,4E-05
+"Greenville, South Carolina, United States",24,4E-05
+"Maidenhead, United Kingdom",24,4E-05
+"Eschborn, Germany",24,4E-05
+"Managua, Nicaragua",24,4E-05
+"Naples, Florida, United States",24,4E-05
+"Saint-Tite, Canada",24,4E-05
+"Saint-Henri-De-Levis, Canada",24,4E-05
+"Tucker, Georgia, United States",23,4E-05
+"Jersey City, New Jersey, United States",23,4E-05
+"Woburn, Massachusetts, United States",23,4E-05
+"Shenzhen, China",23,4E-05
+"North Ryde, Australia",23,4E-05
+"Novosibirsk, Russian Federation",23,4E-05
+"Winchendon, Massachusetts, United States",23,4E-05
+"Thompson, Canada",23,4E-05
+"Edson, Canada",23,4E-05
+"Bonaventure, Canada",23,4E-05
+"Rajkot, India",23,4E-05
+"Aarhus, Denmark",22,4E-05
+"King City, Canada",22,4E-05
+"Uxbridge, Canada",22,4E-05
+"Eden Prairie, Minnesota, United States",22,4E-05
+"Tripoli, Libya",22,4E-05
+"Kissimmee, Florida, United States",22,4E-05
+"Hanna, Canada",22,4E-05
+"Chelmsford, Canada",22,4E-05
+"Stettler, Canada",22,4E-05
+"Cheyenne, Wyoming, United States",22,4E-05
+"Havana, Cuba",22,4E-05
+"Riverview, Florida, United States",22,4E-05
+"Samcheok, Korea (South)",22,4E-05
+"Fuzhou, China",21,4E-05
+"Skopje, Macedonia",21,4E-05
+"Becancour, Canada",21,4E-05
+"Mc Lean, Virginia, United States",21,4E-05
+"Didsbury, Canada",21,4E-05
+"Colorado Springs, Colorado, United States",21,4E-05
+"Damascus, Syria",21,4E-05
+"Sioux Falls, South Dakota, United States",21,4E-05
+"Mission, Canada",21,4E-05
+"South Brisbane, Australia",21,4E-05
+"Kleinburg, Canada",21,4E-05
+"Kebon Sirih, Indonesia",21,4E-05
+"Ft Myers, Florida, United States",21,4E-05
+"Absecon, New Jersey, United States",21,4E-05
+"Wichita, Kansas, United States",21,4E-05
+"L'orignal, Canada",20,3E-05
+"Uberlandia, Brazil",20,3E-05
+"Dnipropetrovsk, Ukraine",20,3E-05
+"Mahilyow, Belarus",20,3E-05
+"Incline Village, Nevada, United States",20,3E-05
+"Reamstown, Pennsylvania, United States",20,3E-05
+"Scottsdale, Arizona, United States",20,3E-05
+"Labrador City, Canada",20,3E-05
+"Saint-Charles-De-Bellechasse, Canada",20,3E-05
+"Torokbalint, Hungary",20,3E-05
+"Albuquerque, New Mexico, United States",20,3E-05
+"Peapack, New Jersey, United States",20,3E-05
+"Morelos, Mexico",20,3E-05
+"Islington, United Kingdom",20,3E-05
+"Khalandrion, Greece",20,3E-05
+"Gibraltar, Gibraltar",20,3E-05
+"Kochi, India",19,3E-05
+"Hampton, Virginia, United States",19,3E-05
+"Port Mcneill, Canada",19,3E-05
+"Beamsville, Canada",19,3E-05
+"Minden, Canada",19,3E-05
+"Grandville, Michigan, United States",19,3E-05
+"Paspebiac, Canada",19,3E-05
+"Bhopal, India",19,3E-05
+"Setif, Algeria",19,3E-05
+"White Plains, New York, United States",19,3E-05
+"Allentown, Pennsylvania, United States",19,3E-05
+"Syracuse, New York, United States",19,3E-05
+"Bay, Arkansas, United States",19,3E-05
+"Drumheller, Canada",19,3E-05
+"Kanchipuram, India",18,3E-05
+"Bracknell, United Kingdom",18,3E-05
+"Lacombe, Canada",18,3E-05
+"Saint-Romuald, Canada",18,3E-05
+"Strathroy, Canada",18,3E-05
+"Ljubljana, Slovenia",18,3E-05
+"Beardsley, Canada",18,3E-05
+"Mansfield, Massachusetts, United States",18,3E-05
+"Courbevoie, France",18,3E-05
+"Forest, Canada",18,3E-05
+"Ft Collins, Colorado, United States",18,3E-05
+"West Palm Beach, Florida, United States",18,3E-05
+"Chandler, Canada",18,3E-05
+"Honolulu, Hawaii, United States",18,3E-05
+"Busto Arsizio, Italy",18,3E-05
+"Reno, Nevada, United States",18,3E-05
+"Constantine, Algeria",18,3E-05
+"Smithfield, Rhode Island, United States",18,3E-05
+"Riviere-Du-Loup, Canada",18,3E-05
+"Nonthaburi, Thailand",18,3E-05
+"Phnum Penh, Cambodia",18,3E-05
+"Tempe, Arizona, United States",18,3E-05
+"Cottam, Canada",17,3E-05
+"Albany, New York, United States",17,3E-05
+"Elmhurst, Illinois, United States",17,3E-05
+"Lewisville, Texas, United States",17,3E-05
+"Kirkland, Washington, United States",17,3E-05
+"Saint-Jean-Port-Joli, Canada",17,3E-05
+"Sturgeon Falls, Canada",17,3E-05
+"Cancun, Mexico",17,3E-05
+"Wuhan, China",17,3E-05
+"Hamilton, Bermuda",17,3E-05
+"Dorchester, Canada",17,3E-05
+"Addison, Texas, United States",17,3E-05
+"Virden, Canada",17,3E-05
+"Oxford, United Kingdom",17,3E-05
+"Tomsk, Russian Federation",17,3E-05
+"Mascouche, Canada",17,3E-05
+"Gaithersburg, Maryland, United States",17,3E-05
+"Rosh Haayin, Israel",17,3E-05
+"Florianopolis, Brazil",16,3E-05
+"Val-David, Canada",16,3E-05
+"Lytton, Canada",16,3E-05
+"Barnsley, United Kingdom",16,3E-05
+"Greeley, Colorado, United States",16,3E-05
+"Wallingford, Connecticut, United States",16,3E-05
+"Ferndale, Washington, United States",16,3E-05
+"Fort Erie, Canada",16,3E-05
+"Yokohama, Japan",16,3E-05
+"Montpellier, France",16,3E-05
+"Inuvik, Canada",16,3E-05
+"Markdale, Canada",16,3E-05
+"Spartanburg, South Carolina, United States",16,3E-05
+"Ipswich, Australia",16,3E-05
+"Lviv, Ukraine",16,3E-05
+"Izmir, Turkey",16,3E-05
+"Rangoon, Myanmar",16,3E-05
+"San Juan, Puerto Rico",16,3E-05
+"Burlington, Vermont, United States",16,3E-05
+"Inwood, Canada",16,3E-05
+"Wallaceburg, Canada",16,3E-05
+"Astana, Kazakhstan",16,3E-05
+"Portland, Maine, United States",16,3E-05
+"Beachwood, Ohio, United States",16,3E-05
+"Innisfil, Canada",16,3E-05
+"High River, Canada",16,3E-05
+"Gainesville, Florida, United States",15,3E-05
+"Boisbriand, Canada",15,3E-05
+"Renens, Switzerland",15,3E-05
+"Espanola, Canada",15,3E-05
+"Salt Spring Island, Canada",15,3E-05
+"Maisons-Alfort, France",15,3E-05
+"Chestermere, Canada",15,3E-05
+"Wetaskiwin, Canada",15,3E-05
+"Merritt, Canada",15,3E-05
+"Tegucigalpa, Honduras",15,3E-05
+"Hanover, Maryland, United States",15,3E-05
+"Exeter, United Kingdom",15,3E-05
+"Bridgeport, Connecticut, United States",15,3E-05
+"Warren, New Jersey, United States",15,3E-05
+"Hannover, Germany",15,3E-05
+"Anchorage, Alaska, United States",15,3E-05
+"Manching, Germany",15,3E-05
+"George Town, Cayman Islands",15,3E-05
+"Crawford Bay, Canada",15,3E-05
+"Eindhoven, Netherlands",15,3E-05
+"Bridgewater, New Jersey, United States",15,3E-05
+"Dayton, Ohio, United States",15,3E-05
+"Tyumen, Russian Federation",15,3E-05
+"Rougemont, Canada",15,3E-05
+"Oran, Algeria",15,3E-05
+"Walnut, California, United States",15,3E-05
+"Dundalk, Ireland",15,3E-05
+"Hitachi, Japan",14,2E-05
+"Valbonne, France",14,2E-05
+"Three Springs, Pennsylvania, United States",14,2E-05
+"Debolt, Canada",14,2E-05
+"Sorocaba, Brazil",14,2E-05
+"Chiyoda, Japan",14,2E-05
+"Leipzig, Germany",14,2E-05
+"Byfleet, United Kingdom",14,2E-05
+"Newlands, South Africa",14,2E-05
+"Renfrew, Canada",14,2E-05
+"Monrovia, California, United States",14,2E-05
+"Cardiff, United Kingdom",14,2E-05
+"Newbury Park, California, United States",14,2E-05
+"Nunawading, Australia",14,2E-05
+"Watford, United Kingdom",14,2E-05
+"Morton Grove, Illinois, United States",14,2E-05
+"Hanmer, Canada",14,2E-05
+"Digby, Canada",14,2E-05
+"Lille, France",14,2E-05
+"Pefferlaw, Canada",14,2E-05
+"Val-Des-Monts, Canada",14,2E-05
+"Lowell, Massachusetts, United States",13,2E-05
+"Petion-Ville, Haiti",13,2E-05
+"Kyoto, Japan",13,2E-05
+"Fornebu, Norway",13,2E-05
+"Cork, Ireland",13,2E-05
+"Fergus, Canada",13,2E-05
+"Marrakech, Morocco",13,2E-05
+"Hounslow, United Kingdom",13,2E-05
+"Thousand Oaks, California, United States",13,2E-05
+"Nice, France",13,2E-05
+"Lisburn, United Kingdom",13,2E-05
+"Sana, Yemen",13,2E-05
+"Monterey Park, California, United States",13,2E-05
+"Libreville, Gabon",13,2E-05
+"Greensboro, North Carolina, United States",13,2E-05
+"Esfahan, Iran",13,2E-05
+"Queen Charlotte, Canada",13,2E-05
+"Pointe-Aux-Trembles, Canada",13,2E-05
+"Boise, Idaho, United States",13,2E-05
+"Birmingham, Michigan, United States",13,2E-05
+"Netanya, Israel",13,2E-05
+"Huntsville, Alabama, United States",13,2E-05
+"Fernie, Canada",13,2E-05
+"Ghaziabad, India",13,2E-05
+"St-Bruno, Canada",12,2E-05
+"Middletown, New York, United States",12,2E-05
+"Riverside, California, United States",12,2E-05
+"Gardena, California, United States",12,2E-05
+"Bryanston, South Africa",12,2E-05
+"Jiddah, Saudi Arabia",12,2E-05
+"Spencerville, Canada",12,2E-05
+"Liege, Belgium",12,2E-05
+"Hollywood, Florida, United States",12,2E-05
+"Ft Wayne, Indiana, United States",12,2E-05
+"Santa Cruz, Bolivia",12,2E-05
+"Wawa, Canada",12,2E-05
+"Anyang-Dong, Korea (South)",12,2E-05
+"Pasadena, California, United States",12,2E-05
+"Manchester, New Hampshire, United States",12,2E-05
+"Brazzaville, Congo",12,2E-05
+"Matawan, New Jersey, United States",12,2E-05
+"Kemptville, Canada",12,2E-05
+"Evansville, Indiana, United States",12,2E-05
+"Binbrook, Canada",12,2E-05
+"Saarbrucken, Germany",12,2E-05
+"Leeds, United Kingdom",12,2E-05
+"Blida, Algeria",12,2E-05
+"Gilbert, Arizona, United States",12,2E-05
+"Kimberley, Canada",12,2E-05
+"Niverville, Canada",12,2E-05
+"New Orleans, Louisiana, United States",12,2E-05
+"Charny, Canada",12,2E-05
+"San Luis Obispo, California, United States",12,2E-05
+"Stavanger, Norway",12,2E-05
+"Frederick, Maryland, United States",12,2E-05
+"Duluth, Georgia, United States",12,2E-05
+"Creston, Canada",12,2E-05
+"Brest, Belarus",12,2E-05
+"Arvada, Colorado, United States",12,2E-05
+"Athens, Georgia, United States",12,2E-05
+"Fresno, California, United States",11,2E-05
+"Dudley, United Kingdom",11,2E-05
+"Brandon, Florida, United States",11,2E-05
+"Zurich, Canada",11,2E-05
+"Rolling Meadows, Illinois, United States",11,2E-05
+"Walnut Creek, California, United States",11,2E-05
+"Klang, Malaysia",11,2E-05
+Subtotal for rows: 1 - 1000,578776,0.97615
+Other,14140,0.02385
